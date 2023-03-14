@@ -1,0 +1,16 @@
+.card {
+  padding-bottom: 10px;
+  border-radius: 50%;
+  background-color: #bebebe;
+}
+.card:hover {
+  animation-duration: 3s;
+  background: #e0e0e0;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
+#border {
+  display: block;
+}
+#fav-icon {
+  display: none;
+}
